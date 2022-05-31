@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Gayatri 👋
 
 <!--
 **gayatri-vidhate-3/gayatri-vidhate-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
