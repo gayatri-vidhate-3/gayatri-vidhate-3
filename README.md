@@ -1,4 +1,5 @@
-### Hi there, I am Gayatri 👋
+### Hi there, I am Gayatri 👋<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+This is the place where I opensource stuff and break things :rofl:
 
 <!--
 **gayatri-vidhate-3/gayatri-vidhate-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
