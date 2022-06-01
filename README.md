@@ -4,12 +4,13 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/gayatri-vidhate-3?style=social)
 
+![GitHub Views](https://komarev.com/ghpvc/?username=gayatri-vidhate-3)
 
 <h3 align="center">A Passionate Data Scientist and ML Engineer</h3>
 
 <p align="center"> <img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" /> </p>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=gayatri-vidhate-3)
+
 
 - 🌱 I’m currently learning **Python,Data Science,ML,German**
 
