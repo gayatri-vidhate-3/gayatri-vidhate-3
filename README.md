@@ -7,7 +7,7 @@
 
 <h3 align="center">A Passionate Data Scientist and ML Engineer</h3>
 
-<p align="center"> <img src="https://media.istockphoto.com/photos/robot-with-education-hud-picture-id966248982?k=20&m=966248982&s=612x612&w=0&h=gq35V9G0kfjKu0ttr90c8p0VraNtqPDkTvqWQ8oXzCk=" /> </p>
+<p align="center"> <img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" /> </p>
 
 
 
