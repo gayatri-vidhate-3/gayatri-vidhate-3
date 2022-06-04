@@ -49,7 +49,14 @@
 <a href="https://www.edx.org/"_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a256ed3e44525477843c0619fdca5bb4c5c597f901701c53dedb4c4c55f3d697/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4564782d3139334133453f7374796c653d666f722d7468652d6261646765266c6f676f3d656478266c6f676f436f6c6f723d7768697465" alt="mysql" width="80" height="40"/> </a>
 <a href="https://medium.com/"_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/031158fe406368e77048939080cdd7894ea1e98b230681dffa5c9b081e507194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="mysql" width="80" height="40"/> </a>
  
-<details>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatri-vidhate-3&show_icons=true&locale=en&layout=compact" alt="vishal1180" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayatri-vidhate-3&show_icons=true&locale=en" alt="vishal1180" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayatri-vidhate-3&" alt="vishal1180" /></p>
+                                                                                                                       
+ <details>
  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
@@ -59,11 +66,4 @@
   
     *	Working experience in Sklearn, Numpy, Pandas, Matplotlib, Seaborn, Pandas Profiling, Plotly.
     *	Good working experience in data science, developing machine learning models.
-    *	Eagerly learning German language.
-
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatri-vidhate-3&show_icons=true&locale=en&layout=compact" alt="vishal1180" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayatri-vidhate-3&show_icons=true&locale=en" alt="vishal1180" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayatri-vidhate-3&" alt="vishal1180" /></p>
+    *	Eagerly learning German language.                                                                                                                      
