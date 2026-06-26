@@ -12,11 +12,11 @@
 
 
 
-- 🌱 I’m currently learning **Python,Data Science,ML,German**
+- 🌱 I’m continuously learning and updating the skills in **Python, Data Science, ML, NLP, GenAI, AgenticAI, Multimodal AI**
 
-- 🤝 I’m looking for help with **Python,Data Science,Machine Learning**
+- 🤝 I’m looking for help with **Python, Data Science, ML, NLP, GenAI, AgenticAI, Multimodal AI**
 
-- 💬 Ask me about **Data Science And Machine Learning**
+- 💬 Ask me about **Python, Data Science, ML, NLP, GenAI, AgenticAI, Multimodal AI**
 
 
 - 📫 How to reach me **gayatri.vidhate.gv@gmail.com**
